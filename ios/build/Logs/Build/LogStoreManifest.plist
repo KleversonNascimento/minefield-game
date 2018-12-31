@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>62FECEB0-79E6-418E-B1BC-905CC307A13F</key>
+		<key>8D3A70E3-1711-47F5-AD73-45ECDCA75CCC</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>62FECEB0-79E6-418E-B1BC-905CC307A13F.xcactivitylog</string>
+			<string>8D3A70E3-1711-47F5-AD73-45ECDCA75CCC.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>S</string>
 			<key>schemeIdentifier-containerName</key>
@@ -27,13 +27,13 @@
 			<key>signature</key>
 			<string>Building project mines with scheme mines and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>567893163.28066397</real>
+			<real>567916472.17923295</real>
 			<key>timeStoppedRecording</key>
-			<real>567893171.63105905</real>
+			<real>567916478.57800496</real>
 			<key>title</key>
 			<string>Building project mines with scheme mines and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>62FECEB0-79E6-418E-B1BC-905CC307A13F</string>
+			<string>8D3A70E3-1711-47F5-AD73-45ECDCA75CCC</string>
 		</dict>
 		<key>EBB618EF-599C-4500-BB56-47567A240C97</key>
 		<dict>
