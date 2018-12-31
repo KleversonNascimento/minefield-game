@@ -6,6 +6,35 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
+		<key>42B3F0E0-60FE-473A-A2C6-E6E4F851F79B</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>42B3F0E0-60FE-473A-A2C6-E6E4F851F79B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>mines project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mines</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project mines with scheme mines and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>567962779.71328604</real>
+			<key>timeStoppedRecording</key>
+			<real>567962781.70822096</real>
+			<key>title</key>
+			<string>Building project mines with scheme mines and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>42B3F0E0-60FE-473A-A2C6-E6E4F851F79B</string>
+		</dict>
 		<key>8D3A70E3-1711-47F5-AD73-45ECDCA75CCC</key>
 		<dict>
 			<key>className</key>
@@ -34,35 +63,6 @@
 			<string>Building project mines with scheme mines and configuration Debug</string>
 			<key>uniqueIdentifier</key>
 			<string>8D3A70E3-1711-47F5-AD73-45ECDCA75CCC</string>
-		</dict>
-		<key>EBB618EF-599C-4500-BB56-47567A240C97</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>EBB618EF-599C-4500-BB56-47567A240C97.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>mines project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>mines</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Building project mines with scheme mines and configuration Debug</string>
-			<key>timeStartedRecording</key>
-			<real>567915633.38478601</real>
-			<key>timeStoppedRecording</key>
-			<real>567915656.59154606</real>
-			<key>title</key>
-			<string>Building project mines with scheme mines and configuration Debug</string>
-			<key>uniqueIdentifier</key>
-			<string>EBB618EF-599C-4500-BB56-47567A240C97</string>
 		</dict>
 	</dict>
 </dict>
